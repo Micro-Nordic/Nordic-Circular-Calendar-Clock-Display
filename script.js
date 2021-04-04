@@ -15,9 +15,9 @@ $(function() {
 		charactersDayName = 3,
 		charactersDay = 2,
 		charactersMonth = 3,
-		dayColor = '#FF2D55',
-		monthColor = '#007AFF',
-		dayNameColor = '#4CD964';
+		dayColor = '#BF616A',
+		monthColor = '#5E81AC',
+		dayNameColor = '#A3BE8C';
 	
 
 	// Rotate the selected ring the correct amount and illuminate the correct characters of the ring text
