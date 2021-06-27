@@ -1,5 +1,11 @@
 <h1 align="center">Nord-Circular-Calendar-Clock-Display</h1>
 
+<div align="center">
+  
+![1](https://i.imgur.com/1U1gDAj.png)
+
+</div>
+
 ## ⁉ What is this
 A recolored version of <a href=https://codepen.io/mattjuggins/pen/WGRRYx>this</a> recolored to match nord color palette and you can use it as ur desktop wallpaper using <a href=https://rocksdanister.github.io/lively>this software<a/>.
   
