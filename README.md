@@ -1,5 +1,10 @@
-<h1 align="center">Nord-Circular-Calendar-Clock-Display</h1>
-
+<p align="center">
+    <img src="https://i.imgur.com/xDQfTqK.png" width = 150rem/>
+</p>
+<br>
+<h2 align="center"> <b>Micro Nordic</b> </h2>
+<p align="center">Nord-Circular-Calendar-Clock-Display 🏔</p>
+<br>
 <div align="center">
   
 ![1](https://i.imgur.com/1U1gDAj.png)
