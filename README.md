@@ -11,24 +11,26 @@
 
 </div>
 
-## ⁉ What is this
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/9dexckH.png"> Description</h2>
 A recolored version of <a href=https://codepen.io/mattjuggins/pen/WGRRYx>this</a> recolored to match nord color palette and you can use it as ur desktop wallpaper using <a href=https://rocksdanister.github.io/lively>this software<a/>.
+ 
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/TzoPeWE.png"> Utilization</h2>
+
+1. Just use as you like ✌
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/89PM7QC.png"> Author</h2>
+
+<a href="https://github.com/Abod1960" alt=""><img width="100" alt="Abod1960" src="https://avatars.githubusercontent.com/u/79435005?v=4"></a> |
+--- |
+<a alt="Abod1960" href="https://github.com/Abod1960">Abod1960</a> |
+
+
+[+ some awesome contributors](https://github.com/Micro-Nordic/Nord-Circular-Calendar-Clock-Display/graphs/contributors)
   
-  ## ✏ Author
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/zaTDMta.png"> Show your support</h2>
 
-🕴 **Abod1960**
-
-* 🌐 Website: no website yet 😅
-* 💻 GitHub: [@Abod1960](https://github.com/Abod1960)
-* 🎨 ArtStation: [Abod1960](https://www.artstation.com/abod1960)
-*  ✉ Gmail: abod1960.work@gmail.com
-*   🖼 DeviantArt: [Abod1960](https://www.deviantart.com/abod1960)
+Give a ⭐️ if you like this port!
   
-## 🌟 Show your support
+<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/oUWxDRu.png"> License</h2>
 
-Give a ⭐️ if you like this project!
-  
-## 📝 Note
-
-colors are adjustable<br>
-you can edit with your own preferences
+Copyright © 2022 [Abod1960](https://github.com/Abod1960)<br>
+This project is licensed under the [MIT](https://github.com/Micro-Nordic/Nord-Circular-Calendar-Clock-Display/blob/main/LICENSE) license.
