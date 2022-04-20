@@ -16,7 +16,7 @@ A recolored version of <a href=https://codepen.io/mattjuggins/pen/WGRRYx>this</a
  
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/TzoPeWE.png"> Utilization</h2>
 
-1. Just use as you like ✌
+1. Just use it as you like ✌
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/89PM7QC.png"> Author</h2>
 
 <a href="https://github.com/Abod1960" alt=""><img width="100" alt="Abod1960" src="https://avatars.githubusercontent.com/u/79435005?v=4"></a> |
