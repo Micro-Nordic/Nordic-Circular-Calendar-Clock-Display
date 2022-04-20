@@ -3,7 +3,7 @@
 </p>
 <br>
 <h2 align="center"> <b>Micro Nordic</b> </h2>
-<p align="center">Nord-Circular-Calendar-Clock-Display 🏔</p>
+<p align="center">Nordic-Circular-Calendar-Clock-Display 🏔</p>
 <br>
 <div align="center">
   
