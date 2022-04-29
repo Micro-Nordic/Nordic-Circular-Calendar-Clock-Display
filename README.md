@@ -12,7 +12,9 @@
 </div>
 
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/9dexckH.png"> Description</h2>
-A recolored version of <a href=https://codepen.io/mattjuggins/pen/WGRRYx>this</a>, recolored to match nord color palette and you can use it as ur desktop wallpaper using <a href=https://rocksdanister.github.io/lively>this software<a/>.
+A recolored version of <a href=https://codepen.io/mattjuggins/pen/WGRRYx>CodePen Home
+Circular Calendar Display
+ by Matthew Juggins</a>, recolored to match Nord color palette and you can use it as your desktop wallpaper, using <a href=https://rocksdanister.github.io/lively>this software</a>.
  
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/TzoPeWE.png"> Utilization</h2>
 
